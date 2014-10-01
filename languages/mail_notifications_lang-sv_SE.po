@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Notifications v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-07-01 13:04:27+0000\n"
+"Last-Translator: adwise <markus@tigerton.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: mail-notifications.php:87
+#@ mail_notifications_lang
+msgid "Mail Notifications"
+msgstr "E-post Notifieringar"
+
+#: mail-notifications.php:103
+#@ mail_notifications_lang
+msgid "Email template"
+msgstr "E-post mall"
+
+#: mail-notifications.php:104
+#@ mail_notifications_lang
+msgid "Email from:"
+msgstr "E-post från:"
+
+#: mail-notifications.php:105
+#@ mail_notifications_lang
+msgid "Email subject:"
+msgstr "E-post ämne:"
+
+#: mail-notifications.php:106
+#@ mail_notifications_lang
+msgid "Email content:"
+msgstr "E-post meddelande:"
+
+#: mail-notifications.php:109
+#@ mail_notifications_lang
+msgid "Additional settings"
+msgstr "Övriga inställningar"
+
+#: mail-notifications.php:110
+#@ mail_notifications_lang
+msgid "Roles:"
+msgstr "Roller:"
+
+#: mail-notifications.php:127
+#@ mail_notifications_lang
+msgid "Mail Notifications Settings"
+msgstr "E-post Notifieringar Inställningar"
+
+#: mail-notifications.php:145
+#@ mail_notifications_lang
+msgid "There's a few tags you can use to dynamically insert content in your email. These are:"
+msgstr "Det  finns ett par taggar som kan användas för att dynamiskt fylla meddelandets information. Dessa är:"
+
+#: mail-notifications.php:147
+#@ mail_notifications_lang
+msgid "The posts title"
+msgstr "Inläggets titel"
+
+#: mail-notifications.php:148
+#@ mail_notifications_lang
+msgid "The posts excerpt, does not retrieve the automatic excerpt if no manual has been written"
+msgstr "Inläggets utdrag, detta hämtar enbart manuellt inlagda utdrag"
+
+#: mail-notifications.php:149
+#@ mail_notifications_lang
+msgid "The posts url, you can use this in a link instead of an url to create a working link"
+msgstr "Inläggets URL, detta kan användas istället för en hel URL för att skapa en fungerande länk till inlägget"
+
+#: mail-notifications.php:161
+#@ mail_notifications_lang
+msgid "You may set what roles the user should be able to send emails to. "
+msgstr "Bestäm vilka roller man ska kunna skicka notifieringar till."
+
+#: mail-notifications.php:253
+#@ mail_notifications_lang
+msgid "Send notification to role"
+msgstr "Skicka notifiering till roll"
+
+#: mail-notifications.php:284
+#@ mail_notifications_lang
+msgid "Check what roles should be sent a notification about this post: "
+msgstr "Kryssa i vilka roller som ska få en notifiering om det här inlägget:"
+
